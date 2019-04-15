@@ -39,8 +39,8 @@ const styles = StyleSheet.create({
   },
   fab_box: {
     position: 'absolute',
-    bottom: 17,
-    right: 17,
+    top: 60,
+    left: 17,
     height: 62,
     width: 62,
     alignItems: 'center',
